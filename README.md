@@ -13,6 +13,37 @@ Let's connect, collaborate, and build tech that makes a difference.
 - 💬 Ask me about **python, data analysis, software developme**
 
 - 📫 How to reach me **stephenzulu2470@gmail.com**
+- <h1 align="center">📬 Contact Me</h1>
+
+<div style="display: flex; justify-content: center; align-items: center; flex-wrap: wrap; gap: 30px; padding: 20px;">
+
+  <!-- WhatsApp -->
+  <a href="https://wa.me/260979171520" target="_blank">
+    <img src="https://img.icons8.com/color/96/000000/whatsapp.png" alt="WhatsApp"/>
+  </a>
+
+  <!-- Email -->
+  <a href="mailto:stephenzulu2470@gmail.com" target="_blank">
+    <img src="https://img.icons8.com/color/96/000000/gmail-new.png" alt="Email"/>
+  </a>
+
+  <!-- LinkedIn -->
+  <a href="https://www.linkedin.com/in/stephen-zulu-41a4a6321?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app https://www.linkedin.com/in/stephenzulu2470" target="_blank">
+    <img src="https://img.icons8.com/color/96/000000/linkedin.png" alt="LinkedIn"/>
+  </a>
+
+  <!-- TikTok -->
+  <a href="https://www.tiktok.com/@afrotechofficial" target="_blank">
+    <img src="https://img.icons8.com/color/96/000000/tiktok--v1.png" alt="TikTok"/>
+  </a>
+
+  <!-- Call -->
+  <a href="tel:+260979171520" target="_blank">
+    <img src="https://img.icons8.com/color/96/000000/phone.png" alt="Call"/>
+  </a>
+
+</div>
+
 <h1 align="center">Languages and Tools</h1>
 
 <!-- 💻 Backend -->
