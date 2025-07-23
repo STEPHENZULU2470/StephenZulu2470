@@ -75,7 +75,7 @@ I'm driven by a simple but powerful idea: tech should work beautifully—even of
 <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(120px, 1fr)); gap: 30px; justify-items: center;">
   <a href="https://www.figma.com/"><img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="100"/></a>
   <a href="https://www.photoshop.com/en"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="Photoshop" width="100"/></a>
-  <a href="https://www.adobe.com/products/xd.html"><img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="Adobe XD" width="100
+  <a href="https://www.adobe.com/products/xd.html"><img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="Adobe XD" width="100"/></a>
 
 
 <!-- 🌍 Contact Footer -->
