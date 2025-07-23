@@ -13,10 +13,10 @@ Let's connect, collaborate, and build tech that makes a difference.
 - 💬 Ask me about **python, data analysis, software developme**
 
 - 📫 How to reach me **stephenzulu2470@gmail.com**
-<h3 align="left">Languages and Tools:</h3>
+<h1 align="left">Languages and Tools:</h1>
 
 <!-- 💻 Backend -->
-<h4 style="margin-top: 30px;">💻 Backend</h4>
+<h2 style="margin-top: 30px;">💻 Backend</h2>
 <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(100px, 1fr)); gap: 24px; justify-items: center;">
   <a href="https://nodejs.org"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="80"/></a>
   <a href="https://www.php.net"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="PHP" width="80"/></a>
@@ -25,7 +25,7 @@ Let's connect, collaborate, and build tech that makes a difference.
 </div>
 
 <!-- 🎨 Frontend -->
-<h4 style="margin-top: 30px;">🎨 Frontend</h4>
+<h2 style="margin-top: 30px;">🎨 Frontend</h2>
 <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(100px, 1fr)); gap: 24px; justify-items: center;">
   <a href="https://reactjs.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="80"/></a>
   <a href="https://reactnative.dev/"><img src="https://reactnative.dev/img/header_logo.svg" alt="React Native" width="80"/></a>
@@ -35,7 +35,7 @@ Let's connect, collaborate, and build tech that makes a difference.
 </div>
 
 <!-- 🗃 Databases -->
-<h4 style="margin-top: 30px;">🗃️ Databases</h4>
+<h2 style="margin-top: 30px;">🗃️ Databases</h2>
 <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(100px, 1fr)); gap: 24px; justify-items: center;">
   <a href="https://www.mysql.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="80"/></a>
   <a href="https://mariadb.org/"><img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" alt="MariaDB" width="80"/></a>
@@ -47,7 +47,7 @@ Let's connect, collaborate, and build tech that makes a difference.
 </div>
 
 <!-- ⚙️ DevOps & Platforms -->
-<h4 style="margin-top: 30px;">⚙️ DevOps & Platforms</h4>
+<h2 style="margin-top: 30px;">⚙️ DevOps & Platforms</h2>
 <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(100px, 1fr)); gap: 24px; justify-items: center;">
   <a href="https://git-scm.com/"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="80"/></a>
   <a href="https://www.docker.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="Docker" width="80"/></a>
@@ -57,7 +57,7 @@ Let's connect, collaborate, and build tech that makes a difference.
 </div>
 
 <!-- 📊 Data & Visualization -->
-<h4 style="margin-top: 30px;">📊 Data & Visualization</h4>
+<h2 style="margin-top: 30px;">📊 Data & Visualization</h2>
 <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(100px, 1fr)); gap: 24px; justify-items: center;">
   <a href="https://pandas.pydata.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="Pandas" width="80"/></a>
   <a href="https://scikit-learn.org/"><img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="Scikit-learn" width="80"/></a>
@@ -67,7 +67,7 @@ Let's connect, collaborate, and build tech that makes a difference.
 </div>
 
 <!-- 🎨 UI/UX & Design -->
-<h4 style="margin-top: 30px;">🎨 UI/UX & Design</h4>
+<h2 style="margin-top: 30px;">🎨 UI/UX & Design</h2>
 <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(100px, 1fr)); gap: 24px; justify-items: center;">
   <a href="https://www.figma.com/"><img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="80"/></a>
   <a href="https://www.photoshop.com/en"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="Photoshop" width="80"/></a>
@@ -76,7 +76,7 @@ Let's connect, collaborate, and build tech that makes a difference.
 </div>
 
 <!-- 🔧 Other Tools & Devices -->
-<h4 style="margin-top: 30px;">🔧 Other Tools & Devices</h4>
+<h2 style="margin-top: 30px;">🔧 Other Tools & Devices</h2>
 <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(100px, 1fr)); gap: 24px; justify-items: center;">
   <a href="https://developer.android.com"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="Android" width="80"/></a>
   <a href="https://www.arduino.cc/"><img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="Arduino" width="80"/></a>
