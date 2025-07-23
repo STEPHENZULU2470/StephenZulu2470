@@ -105,3 +105,62 @@ I'm driven by a simple but powerful idea: tech should work beautifully—even of
   <a href="https://www.figma.com/"><img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="100"/></a>
   <a href="https://www.photoshop.com/en"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="Photoshop" width="100"/></a>
   <a href="https://www.adobe.com/products/xd.html"><img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="Adobe XD" width="100
+
+  <!-- 🌐 Footer Section -->
+<hr style="margin-top: 60px; border-top: 2px solid #ccc;">
+
+<h2 align="center">🌍 Let's Connect</h2>
+
+<div style="
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 30px;
+  padding: 30px;
+  animation: fadeIn 1.5s ease-in-out;
+">
+
+  <!-- WhatsApp -->
+  <a href="https://wa.me/260970358879" target="_blank" style="transition: transform 0.3s;">
+    <img src="https://img.icons8.com/color/96/000000/whatsapp.png" alt="WhatsApp" title="Chat on WhatsApp"
+         style="border-radius: 10px; box-shadow: 0 0 10px #25D366;">
+  </a>
+
+  <!-- Email -->
+  <a href="mailto:stephenzulu2470@gmail.com" target="_blank" style="transition: transform 0.3s;">
+    <img src="https://img.icons8.com/color/96/000000/gmail-new.png" alt="Email" title="Send an Email"
+         style="border-radius: 10px; box-shadow: 0 0 10px #D44638;">
+  </a>
+
+  <!-- LinkedIn -->
+  <a href="https://www.linkedin.com/in/stephenzulu2470" target="_blank" style="transition: transform 0.3s;">
+    <img src="https://img.icons8.com/color/96/000000/linkedin.png" alt="LinkedIn" title="Connect on LinkedIn"
+         style="border-radius: 10px; box-shadow: 0 0 10px #0077B5;">
+  </a>
+
+  <!-- TikTok -->
+  <a href="https://www.tiktok.com/@afrotechofficial" target="_blank" style="transition: transform 0.3s;">
+    <img src="https://img.icons8.com/color/96/000000/tiktok--v1.png" alt="TikTok" title="Follow on TikTok"
+         style="border-radius: 10px; box-shadow: 0 0 10px #000000;">
+  </a>
+
+  <!-- Call -->
+  <a href="tel:+260970358879" target="_blank" style="transition: transform 0.3s;">
+    <img src="https://img.icons8.com/color/96/000000/phone.png" alt="Call" title="Call me"
+         style="border-radius: 10px; box-shadow: 0 0 10px #34B7F1;">
+  </a>
+</div>
+
+<!-- 🔥 Footer Note -->
+<p align="center" style="font-size: 14px; color: #777; margin-top: 20px; animation: fadeIn 1.5s ease-in-out;">
+  Made with ❤️ by <strong>Stephen Zulu</strong> — Passion + Purpose + Pixels
+</p>
+
+<!-- 🌀 Keyframe Animation -->
+<style>
+  @keyframes fadeIn {
+    0% { opacity: 0; transform: translateY(10px); }
+    100% { opacity: 1; transform: translateY(0); }
+  }
+</style>
+
