@@ -105,25 +105,8 @@ I'm driven by a simple but powerful idea: tech should work beautifully—even of
   <a href="https://www.figma.com/"><img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="100"/></a>
   <a href="https://www.photoshop.com/en"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="Photoshop" width="100"/></a>
   <a href="https://www.adobe.com/products/xd.html"><img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="Adobe XD" width="100
-<h2 align="center">📬 Contact Me</h2>
 
-<p align="center">
-  <a href="https://wa.me/260970358879" target="_blank">
-    <img src="https://img.icons8.com/color/48/whatsapp.png" alt="WhatsApp"/>
-  </a>
-  <a href="mailto:stephenzulu2470@gmail.com" target="_blank">
-    <img src="https://img.icons8.com/color/48/gmail-new.png" alt="Email"/>
-  </a>
-  <a href="https://www.linkedin.com/in/stephenzulu2470" target="_blank">
-    <img src="https://img.icons8.com/color/48/linkedin.png" alt="LinkedIn"/>
-  </a>
-  <a href="https://www.tiktok.com/@afrotechofficial" target="_blank">
-    <img src="https://img.icons8.com/color/48/tiktok--v1.png" alt="TikTok"/>
-  </a>
-  <a href="tel:+260970358879" target="_blank">
-    <img src="https://img.icons8.com/color/48/phone.png" alt="Call"/>
-  </a>
-</p>
+
 
 <p align="center" style="font-size:14px;">
   Made with ❤️ by <strong>Stephen Zulu</strong> | Building offline-first tech for real-world impact.
