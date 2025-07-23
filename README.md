@@ -37,20 +37,29 @@ I'm driven by a simple but powerful idea: tech should work beautifully—even of
 
 </div>
 
-<h1 align="center">Languages and Tools</h1>
+<h1 align="center">🚀 Languages and Tools</h1>
 
-<!-- 💻 Backend -->
+<!-- 🧠 Programming Languages -->
+<h2 style="margin-top: 40px; text-align:center;">🧠 Programming Languages</h2>
+<div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(120px, 1fr)); gap: 30px; justify-items: center;">
+  <a href="https://www.w3schools.com/cpp/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="100"/></a>
+  <a href="https://www.python.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="100"/></a>
+  <a href="https://www.java.com"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="100"/></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="100"/></a>
+</div>
+
+<!-- 💻 Backend Development -->
 <h2 style="margin-top: 40px; text-align:center;">💻 Backend Development</h2>
-<div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(120px, 1fr)); gap: 28px; justify-items: center;">
+<div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(120px, 1fr)); gap: 30px; justify-items: center;">
   <a href="https://nodejs.org"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="100"/></a>
   <a href="https://www.php.net"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="PHP" width="100"/></a>
   <a href="https://flask.palletsprojects.com/"><img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="Flask" width="100"/></a>
   <a href="https://www.djangoproject.com/"><img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="Django" width="100"/></a>
 </div>
 
-<!-- 🎨 Frontend -->
+<!-- 🎨 Frontend Development -->
 <h2 style="margin-top: 40px; text-align:center;">🎨 Frontend Development</h2>
-<div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(120px, 1fr)); gap: 28px; justify-items: center;">
+<div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(120px, 1fr)); gap: 30px; justify-items: center;">
   <a href="https://reactjs.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="100"/></a>
   <a href="https://reactnative.dev/"><img src="https://reactnative.dev/img/header_logo.svg" alt="React Native" width="100"/></a>
   <a href="https://vuejs.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="Vue.js" width="100"/></a>
@@ -60,7 +69,7 @@ I'm driven by a simple but powerful idea: tech should work beautifully—even of
 
 <!-- 🗃️ Databases -->
 <h2 style="margin-top: 40px; text-align:center;">🗃️ Databases</h2>
-<div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(120px, 1fr)); gap: 28px; justify-items: center;">
+<div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(120px, 1fr)); gap: 30px; justify-items: center;">
   <a href="https://www.mysql.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="100"/></a>
   <a href="https://mariadb.org/"><img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" alt="MariaDB" width="100"/></a>
   <a href="https://www.postgresql.org"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL" width="100"/></a>
@@ -72,7 +81,7 @@ I'm driven by a simple but powerful idea: tech should work beautifully—even of
 
 <!-- ⚙️ DevOps & Platforms -->
 <h2 style="margin-top: 40px; text-align:center;">⚙️ DevOps & Platforms</h2>
-<div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(120px, 1fr)); gap: 28px; justify-items: center;">
+<div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(120px, 1fr)); gap: 30px; justify-items: center;">
   <a href="https://git-scm.com/"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="100"/></a>
   <a href="https://www.docker.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="Docker" width="100"/></a>
   <a href="https://firebase.google.com/"><img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="Firebase" width="100"/></a>
@@ -82,7 +91,7 @@ I'm driven by a simple but powerful idea: tech should work beautifully—even of
 
 <!-- 📊 Data & Visualization -->
 <h2 style="margin-top: 40px; text-align:center;">📊 Data & Visualization</h2>
-<div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(120px, 1fr)); gap: 28px; justify-items: center;">
+<div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(120px, 1fr)); gap: 30px; justify-items: center;">
   <a href="https://pandas.pydata.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="Pandas" width="100"/></a>
   <a href="https://scikit-learn.org/"><img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="Scikit-learn" width="100"/></a>
   <a href="https://www.tensorflow.org"><img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="TensorFlow" width="100"/></a>
@@ -92,17 +101,7 @@ I'm driven by a simple but powerful idea: tech should work beautifully—even of
 
 <!-- 🎨 UI/UX & Design -->
 <h2 style="margin-top: 40px; text-align:center;">🎨 UI/UX & Design</h2>
-<div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(120px, 1fr)); gap: 28px; justify-items: center;">
+<div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(120px, 1fr)); gap: 30px; justify-items: center;">
   <a href="https://www.figma.com/"><img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="100"/></a>
   <a href="https://www.photoshop.com/en"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="Photoshop" width="100"/></a>
-  <a href="https://www.adobe.com/products/xd.html"><img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="Adobe XD" width="100"/></a>
-  <a href="https://www.adobe.com/in/products/illustrator.html"><img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="Illustrator" width="100"/></a>
-</div>
-
-<!-- 🔧 Other Tools & Devices -->
-<h2 style="margin-top: 40px; text-align:center;">🔧 Other Tools & Devices</h2>
-<div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(120px, 1fr)); gap: 28px; justify-items: center;">
-  <a href="https://developer.android.com"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="Android" width="100"/></a>
-  <a href="https://www.arduino.cc/"><img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="Arduino" width="100"/></a>
-  <a href="https://postman.com"><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="100"/></a>
-  <a href="https://www.selenium.dev"><img src="https://raw.githubusercontent
+  <a href="https://www.adobe.com/products/xd.html"><img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="Adobe XD" width="100
