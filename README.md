@@ -6,13 +6,6 @@ I'm driven by a simple but powerful idea: tech should work beautifully—even of
 
 🚀 I code with purpose—writing clean, maintainable architectures backed by thoughtful UI/UX. Each project starts with real needs and ends with usable, demo-ready software that speaks for itself.
 
-you can check out my tiktok account at https://www.tiktok.com/@afrotechofficial?_t=ZM-8yEqxgU1Sc9&_r=1
-tiktok.com/affrotechofficial 
-Let's connect, collaborate, and build tech that makes a difference.
-
-- 💬 Ask me about **python, data analysis, software developme**
-
-- 📫 How to reach me **stephenzulu2470@gmail.com**
 - <h1 align="center">📬 Contact Me</h1>
 
 <div style="display: flex; justify-content: center; align-items: center; flex-wrap: wrap; gap: 30px; padding: 20px;">
