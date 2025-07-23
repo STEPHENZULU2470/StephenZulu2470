@@ -6,36 +6,7 @@ I'm driven by a simple but powerful idea: tech should work beautifully—even of
 
 🚀 I code with purpose—writing clean, maintainable architectures backed by thoughtful UI/UX. Each project starts with real needs and ends with usable, demo-ready software that speaks for itself.
 
-- <h1 align="center">📬 Contact Me</h1>
 
-<div style="display: flex; justify-content: center; align-items: center; flex-wrap: wrap; gap: 30px; padding: 20px;">
-
-  <!-- WhatsApp -->
-  <a href="https://wa.me/260979171520" target="_blank">
-    <img src="https://img.icons8.com/color/96/000000/whatsapp.png" alt="WhatsApp"/>
-  </a>
-
-  <!-- Email -->
-  <a href="mailto:stephenzulu2470@gmail.com" target="_blank">
-    <img src="https://img.icons8.com/color/96/000000/gmail-new.png" alt="Email"/>
-  </a>
-
-  <!-- LinkedIn -->
-  <a href="https://www.linkedin.com/in/stephen-zulu-41a4a6321?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app https://www.linkedin.com/in/stephenzulu2470" target="_blank">
-    <img src="https://img.icons8.com/color/96/000000/linkedin.png" alt="LinkedIn"/>
-  </a>
-
-  <!-- TikTok -->
-  <a href="https://www.tiktok.com/@afrotechofficial" target="_blank">
-    <img src="https://img.icons8.com/color/96/000000/tiktok--v1.png" alt="TikTok"/>
-  </a>
-
-  <!-- Call -->
-  <a href="tel:+260979171520" target="_blank">
-    <img src="https://img.icons8.com/color/96/000000/phone.png" alt="Call"/>
-  </a>
-
-</div>
 
 <h1 align="center">🚀 Languages and Tools</h1>
 
@@ -107,7 +78,43 @@ I'm driven by a simple but powerful idea: tech should work beautifully—even of
   <a href="https://www.adobe.com/products/xd.html"><img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="Adobe XD" width="100
 
 
+<!-- 🌍 Contact Footer -->
+<h1 align="center">📬 Contact Me</h1>
 
-<p align="center" style="font-size:14px;">
-  Made with ❤️ by <strong>Stephen Zulu</strong> | Building offline-first tech for real-world impact.
+<p align="center">
+  <!-- WhatsApp -->
+  <a href="https://wa.me/260979171520" target="_blank">
+    <img src="https://img.icons8.com/clouds/100/whatsapp.png" alt="WhatsApp" title="WhatsApp"/>
+  </a>
+
+  <!-- Email -->
+  <a href="mailto:stephenzulu2470@gmail.com" target="_blank">
+    <img src="https://img.icons8.com/clouds/100/gmail.png" alt="Email" title="Email"/>
+  </a>
+
+  <!-- LinkedIn -->
+  <a href="https://www.linkedin.com/in/stephenzulu2470" target="_blank">
+    <img src="https://img.icons8.com/clouds/100/linkedin.png" alt="LinkedIn" title="LinkedIn"/>
+  </a>
+
+  <!-- TikTok -->
+  <a href="https://www.tiktok.com/@afrotechofficial" target="_blank">
+    <img src="https://img.icons8.com/clouds/100/tiktok.png" alt="TikTok" title="TikTok"/>
+  </a>
+
+  <!-- Call -->
+  <a href="tel:+260979171520" target="_blank">
+    <img src="https://img.icons8.com/clouds/100/phone.png" alt="Call" title="Call"/>
+  </a>
 </p>
+
+<hr style="margin-top: 50px; border: none; border-top: 2px solid #ddd;">
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00BFFF&center=true&width=450&lines=Thanks+for+visiting!+Let's+build+impactful+tech+together." alt="Typing animation"/>
+</p>
+
+<p align="center" style="font-size: 14px;">
+  Made with ❤️ by <strong>Stephen Zulu</strong> — Empowering Zambia and beyond with real-world innovation.
+</p>
+
